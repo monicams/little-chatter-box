@@ -1,0 +1,7 @@
+body{font-family: 'Noto Sans', sans-serif; margin:10px;}
+.bubble { padding: 10px; border-radius: 5px; border:1px solid #ccc;	margin-bottom:5px;}
+.sent{background: #f1c40f; margin-left: 5px;}
+.received{background: #95a5a6;	margin-left: 20px;}
+li{list-style-type: none; margin-left:5px;}
+.adorable{float:left; padding-right:20px;}
+input{padding:5px;}
